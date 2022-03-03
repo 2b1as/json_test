@@ -11,7 +11,7 @@
                 "gradient_begin":"rgba(37, 64, 82, 1)",
                 "gradient_end":"rgba(0, 0, 0, 0.000)",
                 "background":"#254052",
-                "imageURL":"https://static.e-2.at/Tipico/Hosting/Images/2022-03-03/product.jpg"
+                "imageURL":"https://showcase.e-2.at/tipico/image/product.jpg"
               }
             ],
             "bonus":[
@@ -24,7 +24,7 @@
                  "gradient_begin":"rgba(37, 64, 82, 1)",
                  "gradient_end":"rgba(0, 0, 0, 0.000)",
                  "background":"#254052",
-                 "imageURL":"https://static.e-2.at/Tipico/Hosting/Images/2022-03-03/bonus.jpg"
+                 "imageURL":"https://showcase.e-2.at/tipico/image/bonus.jpg"
                }
              ]
     }
