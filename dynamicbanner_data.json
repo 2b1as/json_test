@@ -1,0 +1,32 @@
+{
+   "tipico":[
+      {
+           "product":[
+              {
+                "h1":"WILLKOMMEN BEI",
+                "h2":"TIPICO GAMES",
+                "cta":"Jetzt registrieren",
+                "legal_text":"18+. Glücksspiel kann süchtig machen. Hilfe unter www.spielerambulanz.de",
+                "ad_identifier":" ",
+                "gradient_begin":"rgba(37, 64, 82, 1)",
+                "gradient_end":"rgba(37, 64, 82, 0.000)",
+                "background":"#254052",
+                "imageURL":"https://static.e-2.at/Tipico/Hosting/Images/2022-03-03/product.jpg"
+              }
+            ],
+            "bonus":[
+               {
+                 "h1":"100% BIS 100€",
+                 "h2":"100 FREISPIELE",
+                 "cta":"Jetzt registrieren",
+                 "legal_text":"18+. Glücksspiel kann süchtig machen. Hilfe unter www.spielerambulanz.de",
+                 "ad_identifier":" ",
+                 "gradient_begin":"rgba(37, 64, 82, 1)",
+                 "gradient_end":"rgba(37, 64, 82, 0.000)",
+                 "background":"#254052",
+                 "imageURL":"https://static.e-2.at/Tipico/Hosting/Images/2022-03-03/bonus.jpg"
+               }
+             ]
+    }
+   ]
+}
